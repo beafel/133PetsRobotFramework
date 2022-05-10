@@ -26,7 +26,7 @@ Acessar o ${browser} na pagina <${url}>
     Open Browser       ${url}           ${browser}
 
 Digitar "${palavra_chave}" na pesquisa
-    Set Test Variable  ${palavra_chave}
+    set test variable  ${palavra_chave}
     input text          name = q        ${palavra_chave}
     press keys          name = q        ENTER
 
