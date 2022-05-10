@@ -27,11 +27,11 @@ Consulta Produto Apertando Enter
     Entao exibe um grid e a frase do resultado esperado
 
 Compra Produto
-    [Tags]    enter
+    [Tags]    rapido
     Dado que acesso o site
     Quando escrevo "Comedouro" na barra de pesquisa
     E aperto o Enter
-    Entao exibe um grid e a frase do resultado esperad
+    Entao exibe um grid e a frase do resultado esperado
 
 
 *** Keywords ***
